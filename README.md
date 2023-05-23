@@ -129,8 +129,7 @@ $ streamlit run app.py
 <p align="center">Results</p>
 
 ## :clap: And it's done!
-Feel free to mail me for any doubts/query 
-:email: chandrikadeb7@gmail.com
+
 
 ---
 
